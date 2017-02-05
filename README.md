@@ -1,8 +1,8 @@
-## Trading currencies one price at a time
+# Trading currencies one price at a time
 
 I'm a Price Action Figure in the currency markets, with trading positions for weeks or more. I dream of braiding my daughters' hair. I'm working towards abandoning urban life soon.
 
-## Trading updates 2017 in alphabetical order
+# Trading updates 2017 in alphabetical order
 
 ### AUDUSD
 Waiting for a signal to long this pair.
