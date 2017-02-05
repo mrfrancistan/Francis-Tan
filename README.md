@@ -4,30 +4,23 @@ I'm a Price Action Figure in the currency markets, with trading positions for we
 
 ## Trading updates 2017 in alphabetical order
 
-### AUDUSD
+  ### AUDUSD
+  Waiting for a signal to long this pair.
 
-Waiting for a signal to long this pair.
+  ### EURUSD
+  Still shorting this pair with stops at 1.0975.
 
-### EURUSD
+  ### GBPUSD
+  Still shorting this pair with stops at 1.3496.
 
-Still shorting this pair with stops at 1.0975.
+  ### NZDUSD
+  Just long at 0.7235 with stops at 0.6835.
 
-### GBPUSD
+  ### USDCAD
+  Go long at market price with stop at 1.2830.
 
-Still shorting this pair with stops at 1.3496.
+  ### USDCHF
+  Go long at market price with stop at 0.9527.
 
-### NZDUSD
-
-Just long at 0.7235 with stops at 0.6835.
-
-### USDCAD
-
-Go long at market price with stop at 1.2830.
-
-### USDCHF
-
-Go long at market price with stop at 0.9527.
-
-### USDJPY
-
-Go long at market price with stop at 106.74.
+  ### USDJPY
+  Go long at market price with stop at 106.74.
