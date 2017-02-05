@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Trading currencies one price at a time
 
-You can use the [editor on GitHub](https://github.com/mrfrancistan/trading/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm a Price Action Figure in the currency markets, with trading positions for weeks or more. I dream of braiding my daughters' hair. I'm working towards abandoning urban life soon.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Trading updates 2017 in alphabetical order
 
-### Markdown
+### AUDUSD
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Waiting for a signal to long this pair.
 
-```markdown
-Syntax highlighted code block
+### EURUSD
 
-# Header 1
-## Header 2
-### Header 3
+Still shorting this pair with stops at 1.0975.
 
-- Bulleted
-- List
+### GBPUSD
 
-1. Numbered
-2. List
+Still shorting this pair with stops at 1.3496.
 
-**Bold** and _Italic_ and `Code` text
+### NZDUSD
 
-[Link](url) and ![Image](src)
-```
+Just long at 0.7235 with stops at 0.6835.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### USDCAD
 
-### Jekyll Themes
+Go long at market price with stop at 1.2830.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mrfrancistan/trading/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### USDCHF
 
-### Support or Contact
+Go long at market price with stop at 0.9527.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### USDJPY
+
+Go long at market price with stop at 106.74.
