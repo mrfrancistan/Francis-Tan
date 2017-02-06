@@ -23,7 +23,7 @@ Go long at market price with stop at 0.9527.
 #### _USDJPY_
 Go long at market price with stop at 106.74.
 
-## **MONTHLY SPREAD**
+## **MONTHLY BLOG**
 
 #### _To Trade Or Not To Trade_
 Do yourself a favour. Use the [Prospect Theory](http://www.econport.org/econport/request?page=man_ru_advanced_prospect) (Kahneman & Tversky, 1979) to assess how suitable you are in trading or investing.
