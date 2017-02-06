@@ -30,18 +30,18 @@ Do yourself a favour. Use the Prospect Theory (Kahneman & Tversky, 1979) to asse
 
 Profit scenario, choose between:
 
-    1. A sure profit of $3000
-    2. An 80% chance of winning $4000 and a 20% chance of winning zero.
+    A. A sure profit of $3000
+    B. An 80% chance of winning $4000 and a 20% chance of winning zero.
 
 Loss scenario, choose between:
 
-    1. A sure loss of $3000
-    2. An 80% chance of losing $4000 and a 20% chance of losing zero.
+    A. A sure loss of $3000
+    B. An 80% chance of losing $4000 and a 20% chance of losing zero.
 
 You have your answers? Check below
 
 
-Successful traders choose 2 and 1 respectively. If your answers are otherwise, forget trading completely……or change yourself.
+Successful traders choose B and A respectively. If your answers are otherwise, forget trading completely……or change yourself.
 
 ## **ABOUT PRICETON NEWS**
 
