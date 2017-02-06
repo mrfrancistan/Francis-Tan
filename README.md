@@ -25,7 +25,7 @@ Go long at market price with stop at 106.74.
 
 ## **MONTHLY SPREAD**
 
-#### _To Trade or Not to Trade_
+#### _To Trade Or Not To Trade_
 Do yourself a favour. Use the [Prospect Theory](http://www.econport.org/econport/request?page=man_ru_advanced_prospect) (Kahneman & Tversky, 1979) to assess how suitable you are in trading or investing.
 
 Profit scenario, choose between:
