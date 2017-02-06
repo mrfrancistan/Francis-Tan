@@ -45,4 +45,4 @@ Successful traders choose B and C respectively. If your answers are otherwise, f
 
 ## **ABOUT PRICETON NEWS**
 
-I'm a price action figure in the currency markets(with trading positions for weeks or more), bringing you price action news in the markets. I dream of braiding my daughters' hair and run distances literally. I'm working towards abandoning urban life soon. I can be found tweeting [here](https://twitter.com/mrfrancistan).
+I'm a price action figure in the currency markets(with trading positions for weeks or more), bringing you price action news in the markets. I dream of braiding my daughters' hair. I run distances literally. I'm working towards abandoning urban life soon. I can be found tweeting [here](https://twitter.com/mrfrancistan).
