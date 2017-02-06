@@ -35,13 +35,13 @@ Profit scenario, choose between:
 
 Loss scenario, choose between:
 
-    A. A sure loss of $3000
-    B. An 80% chance of losing $4000 and a 20% chance of losing zero.
+    C. A sure loss of $3000
+    D. An 80% chance of losing $4000 and a 20% chance of losing zero.
 
 You have your answers? Check below
 
 
-Successful traders choose B and A respectively. If your answers are otherwise, forget trading completely……or change yourself.
+Successful traders choose B and C respectively. If your answers are otherwise, forget trading completely……or change yourself.
 
 ## **ABOUT PRICETON NEWS**
 
