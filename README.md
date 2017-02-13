@@ -10,10 +10,10 @@ My major business influences include great traders (Bill Dunn, Ed Seykota, Larry
 
 ## **Who?**
 
-Trading aside, I’m a professional family man who enjoys **washing dishes and dreams of braiding my daughters’ hair**. I **run distances and read regularly**. I believe in **natural food, natural body movement and natural healing**. I **don’t trust** the food & pharmaceutical industries, mainstream & social media, and politicians. I’m working towards **abandoning urban life** soon because I suspect I’m evolving into a caveman as the seconds tick.
+Trading aside, I’m a **professional family** man who enjoys **washing dishes and dreams of braiding my daughters’ hair**. I **run distances and read regularly**. I believe in **natural food, natural body movement and natural healing**. I **DON'T TRUST** the _food & pharmaceutical industries, mainstream & social media_, and _politicians_. I’m working towards **abandoning urban life** soon because I suspect I’m evolving into a caveman as the seconds tick.
 
 I’ve lost touch with music and writing though I like them a lot. I had a music project that never took off and [a gibberish blog that cyber squats](http://doorsleftopen.wordpress.com/). I hope I can start writing again at [Medium](https://medium.com/@mrfrancistan). I’ve also lost faith in football(or soccer) which is looking filthy with fake riches. Still, I keep myself abreast of Thai Football League, AFC Liverpool and Scarborough Athletic.
 
 ## **Where?**
 
-I don’t trust gmail and whatsapp. If it’s necessary, write to me at francis@mrfrancistan.com or message me via Signal Private Messenger (if you have my number). Ok, ok, I can be found tweeting here too.
+I DON'T TRUST _gmail_ and _whatsapp_. If it’s necessary, write to me at francis@mrfrancistan.com or message me via Signal Private Messenger (if you have my number). Ok, ok, I can be found tweeting [here](https://twitter.com/mrfrancistan) too.
