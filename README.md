@@ -16,4 +16,4 @@ I’ve lost touch with music and writing though I like them a lot. I had a music
 
 ## **./where**
 
-I DON'T TRUST _gmail_ and _whatsapp_. If it’s necessary, write to me at [francis@mrfrancistan.com](mailto:francis@mrfrancistan.com) or message me via Signal Private Messenger (if you have my number). Ok, ok, I can be found tweeting [here](https://twitter.com/mrfrancistan) too.
+I DON'T TRUST _gmail_ and _whatsapp_. If it’s necessary, write to me at [francis@mrfrancistan.com](mailto:francis@mrfrancistan.com) or message me via [Signal Private Messenger](https://whispersystems.org/) (if you have my number). Reluctantly, I tweet [here](https://twitter.com/mrfrancistan).
