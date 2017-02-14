@@ -1,6 +1,6 @@
 ## **./warning**
 
-This is a [non-secure](https://www.eukhost.com/blog/webhosting/ssl-essential-now-google-warn-users-of-non-secure-websites/) site. I can only dream of being a [_hacker_](https://en.wikipedia.org/wiki/Hacker) or a [_whistleblower_](https://edwardsnowden.com/).
+This is a [non-secure](https://www.eukhost.com/blog/webhosting/ssl-essential-now-google-warn-users-of-non-secure-websites/) site. I can only dream of being a [_hacker_](https://en.wikipedia.org/wiki/Hacker) or a [_whistleblower_](https://edwardsnowden.com/). And I was redeemed by Christ.
 
 ## **./work**
 
