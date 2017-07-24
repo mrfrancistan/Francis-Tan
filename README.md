@@ -2,7 +2,7 @@
 
 This is a [non-secure](https://www.eukhost.com/blog/webhosting/ssl-essential-now-google-warn-users-of-non-secure-websites/) site.
 
-[_Hacker_](https://en.wikipedia.org/wiki/Hacker) or a [_whistleblower_](https://edwardsnowden.com/) wannabe.
+[_Hacker_](https://en.wikipedia.org/wiki/Hacker) or [_whistleblower_](https://edwardsnowden.com/) wannabe.
 
 Wretched redeemed by Christ.
 
@@ -12,19 +12,17 @@ Wretched redeemed by Christ.
 
 Trading influences include [Bill Dunn](http://dunncapital.com/), [Ed Seykota](http://www.seykota.com/tribe/), [Larry Hite](https://www.trendfollowing.com/larry_hite/), [Richard Dennis](http://turtletrader.com/trader-dennis/), [Jesse Livermore](https://jesse-livermore.com/), [Paul Tudor Jones](https://www.tudorfunds.com/), [Jerry Parker](http://www.chesapeakecapital.com/), [David Harding](https://www.wintoncapital.com/), and [Salem Abraham](http://www.abrahamtrading.com/).
 
-## **./who**
+## **./what**
 
-Family man ferrying the girls and running the household.
+Ferrying the girls and running the household.
 
-Cook working towards being a farmer of natural food.
+Cooking towards farming natural food.
 
-Distance runner preparing to serve people in need.
+Running and moving to serve others.
 
-Movement novice aspiring to serve the community.
+Reading to write sporadically.
 
-Reader writing sporadically.
-
-Musician dreaming.
+Playing music for fun. 
 
 ## **./where**
 
