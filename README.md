@@ -30,8 +30,8 @@ playing music for fun.
 
 [here](https://twitter.com/mrfrancistan).
 
-[here](https://whispersystems.org/) via Signal app(+65 96304652). 
+[here](https://whispersystems.org/) via signal app(+65 96304652). 
 
 ## **./walked out on**
 
-facebook, whatsapp, microsoft, windows, gmail, samsung, iphone, starbucks, boutique running shoes, wheat products, football... 
+facebook, whatsapp, microsoft, windows, gmail, samsung, iphone, starbucks, newspapers, bbc.co.uk., mainstream media, boutique running shoes, wheat products, football... 
